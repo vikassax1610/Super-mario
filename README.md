@@ -3,8 +3,13 @@
 
 <div align="center">
 
+<a href="https://frolicking-empanada-c301d6.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🎮%20PLAY%20NOW-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=FF4757" alt="Play Now" height="60">
+</a>
 
 *Relive the magic of classic platforming with this fan-made tribute to Nintendo's iconic plumber!*
+
+**🎯 [Click above to start your adventure!](https://frolicking-empanada-c301d6.netlify.app/)**
 
 </div>
 
@@ -13,6 +18,13 @@
 ## 🎮 **What Makes This Special?**
 
 Experience the timeless charm of Super Mario Bros, lovingly recreated using modern web technologies. Jump into a world where **nostalgia meets innovation**, featuring pixel-perfect gameplay mechanics that will transport you back to the golden age of platformers.
+
+<div align="center">
+
+### 🕹️ **Ready to Play?**
+**[🚀 Launch Game](https://frolicking-empanada-c301d6.netlify.app/)** | **[📖 Learn More](#-game-features)** | **[🛠️ Contribute](#-contributing)**
+
+</div>
 
 > 🚨 **Educational Project Notice**: This is a fan-made tribute for learning purposes only. Not affiliated with or endorsed by Nintendo.
 
@@ -25,6 +37,8 @@ Experience the timeless charm of Super Mario Bros, lovingly recreated using mode
 ![Mario Gameplay](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzOWV0NGVkbW10dnhubTZxZnQ1bjM4aDd2NDRvdGRzZ2g0Z3BrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IY5CmYbirEsXWPm/giphy.gif)
 
 *Jump, run, and collect your way through the Mushroom Kingdom!*
+
+**[🎮 Try it yourself - Play Now!](https://frolicking-empanada-c301d6.netlify.app/)**
 
 </div>
 
@@ -74,6 +88,16 @@ Experience the timeless charm of Super Mario Bros, lovingly recreated using mode
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**Experience all these features yourself!**
+
+<a href="https://frolicking-empanada-c301d6.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🎮%20PLAY%20THE%20GAME-4ECDC4?style=for-the-badge&logo=play&logoColor=white" alt="Play the Game" height="50">
+</a>
+
+</div>
 
 ---
 
@@ -125,9 +149,23 @@ Experience the timeless charm of Super Mario Bros, lovingly recreated using mode
 
 ## 🚀 **Quick Start Guide**
 
-### 📋 **Prerequisites**
+### 🎮 **Want to Play Right Now?**
 
-Before diving into the Mushroom Kingdom, make sure you have:
+<div align="center">
+
+**No installation needed! Play instantly in your browser:**
+
+<a href="https://frolicking-empanada-c301d6.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20INSTANT%20PLAY-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Instant Play" height="50">
+</a>
+
+**Works on desktop, mobile, and tablet!**
+
+</div>
+
+### 📋 **For Developers: Local Setup**
+
+Before diving into the code, make sure you have:
 
 - 🔧 **[Cocos Creator v3.x+](https://www.cocos.com/en/creator)** - The magic behind the scenes
 - 🟢 **[Node.js](https://nodejs.org/)** - For TypeScript compilation (Latest LTS recommended)
@@ -173,6 +211,8 @@ npm install  # If using additional npm packages
 | **Jump** | 🎈 `Space` / `W` / `↑` | Jump over obstacles |
 | **Run** | 🏃‍♂️ `Shift` + Move | Sprint faster |
 | **Crouch** | ⬇️ `S` / `↓` | Duck (when big) |
+
+**[🎮 Master these controls in the game!](https://frolicking-empanada-c301d6.netlify.app/)**
 
 </div>
 
@@ -241,6 +281,11 @@ We welcome contributions from fellow Mario enthusiasts! Here's how you can help:
 ### 🏁 **Victory!**
 *Reach the flagpole and celebrate*
 
+**See it all in action:**
+<a href="https://frolicking-empanada-c301d6.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🎮%20LIVE%20DEMO-FF6B6B?style=flat-square&logo=play&logoColor=white" alt="Live Demo">
+</a>
+
 </div>
 
 ---
@@ -281,12 +326,19 @@ If you enjoyed this project, please consider:
 
 ---
 
+## 🎮 **Ready for Adventure?**
+
+<a href="https://frolicking-empanada-c301d6.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🍄%20LET'S%20A%20GO!%20🍄-FF6B6B?style=for-the-badge&logo=gamepad2&logoColor=white&labelColor=FF4757" alt="Let's A Go!" height="60">
+</a>
+
 **Made with 💖 and lots of ☕ by passionate retro gaming enthusiasts**
 
 *Let's-a-go and create something amazing together!* 🍄✨
 
 ---
 
+[![Play Now](https://img.shields.io/badge/🎮%20Play%20Now-Live%20Demo-FF6B6B?style=social&logo=play)](https://frolicking-empanada-c301d6.netlify.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/vikassa816/super-mario?style=social)](https://github.com/vikassax1610/Super-mario)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/vikas_only_)
 
