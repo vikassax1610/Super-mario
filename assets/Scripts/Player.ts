@@ -401,6 +401,7 @@ export class Player extends Component {
         this.playerCurrentState = PlayerState.Dead;
         this.gameOverSprite.node.active = true;
         this.gameOverSprite.node.getChildByName('GOScoreValue').getComponent(Label).string = this.score.toString();
+        this.gameOverSprite.node.getChildByName('GOCoinValue').getComponent(Label).string = this.coins.toString();
     }
 
     update(dt: number) {
