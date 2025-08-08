@@ -9,7 +9,7 @@ This project recreates the nostalgic platforming experience of Mario, including 
 
 ## 🎥 Gameplay Preview
 
-![Mario Gameplay]([assets/screenshots/mario.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzOWV0NGVkbW10dnhubTZxZnQ1bjM4aDd2NDRvdGRzZ2g0Z3BrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IY5CmYbirEsXWPm/giphy.gif))
+![Mario Gameplay](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzOWV0NGVkbW10dnhubTZxZnQ1bjM4aDd2NDRvdGRzZ2g0Z3BrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1IY5CmYbirEsXWPm/giphy.gif)
 
 ---
 
@@ -36,3 +36,38 @@ This project recreates the nostalgic platforming experience of Mario, including 
 
 ## 📂 Project Structure
 
+├── assets/
+│ ├── scripts/
+│ │ ├── PlayerController.ts
+│ │ ├── Enemy.ts
+│ │ ├── MysteryBox.ts
+│ │ ├── Coin.ts
+│ │ ├── GameManager.ts
+│ │ └── ...
+│ ├── textures/ # Sprites & tilesets
+│ ├── audio/ # Background music & sound effects
+│ └── tilemaps/ # Level maps
+├── scenes/
+│ ├── Level1.scene
+│ └── MainMenu.scene
+├── README.md
+└── package.json
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Prerequisites
+Make sure you have:
+- [Cocos Creator v3.x+](https://www.cocos.com/en/creator) installed
+- Node.js (for TypeScript compilation, optional)
+- Basic knowledge of Cocos Creator’s Editor
+
+---
+
+### 2️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/vikassa816/super-mario
+cd super-mario
