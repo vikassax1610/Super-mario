@@ -602,8 +602,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 571.915,
-      "y": 48.691,
+      "x": 975.665,
+      "y": 86.191,
       "z": 0
     },
     "_lrot": {
@@ -654,7 +654,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -590,
+      "x": -583.709,
       "y": 225,
       "z": 0
     },
@@ -912,8 +912,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 35.648,
-      "y": 0,
+      "x": 413.148,
+      "y": 32.5,
       "z": 0
     },
     "_lrot": {
@@ -984,8 +984,8 @@
     "_string": "Coins",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 30,
-    "_fontSize": 30,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
     "_overflow": 1,
@@ -1021,8 +1021,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 83.328,
-      "y": -14.218,
+      "x": 465.828,
+      "y": 22.032,
       "z": 0
     },
     "_lrot": {
@@ -1204,8 +1204,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 0,
-      "y": 0,
+      "x": 323.75,
+      "y": 32.5,
       "z": 0
     },
     "_lrot": {
@@ -1276,8 +1276,8 @@
     "_string": "Time",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 30,
-    "_fontSize": 30,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 20,
     "_overflow": 1,
@@ -1313,8 +1313,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 51.874,
-      "y": -11.016,
+      "x": 371.874,
+      "y": 23.984,
       "z": 0
     },
     "_lrot": {
@@ -2264,8 +2264,8 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 513.75,
-      "y": 60.811,
+      "x": 922.5,
+      "y": 95.811,
       "z": 0
     },
     "_lrot": {
@@ -2336,8 +2336,8 @@
     "_string": "Score",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 30,
-    "_fontSize": 30,
+    "_actualFontSize": 20,
+    "_fontSize": 20,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
     "_overflow": 1,
