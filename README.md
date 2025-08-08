@@ -3,10 +3,6 @@
 
 <div align="center">
 
-![Mario Banner](https://img.shields.io/badge/Super%20Mario%20Bros-Clone-red?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-[![Cocos Creator](https://img.shields.io/badge/Cocos%20Creator-3.x+-blue?style=for-the-badge&logo=cocos&logoColor=white)](https://www.cocos.com/en/creator)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](LICENSE)
 
 *Relive the magic of classic platforming with this fan-made tribute to Nintendo's iconic plumber!*
 
@@ -291,8 +287,7 @@ If you enjoyed this project, please consider:
 
 ---
 
-[![GitHub Stars](https://img.shields.io/github/stars/vikassa816/super-mario?style=social)](https://github.com/vikassa816/super-mario/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/vikassa816/super-mario?style=social)](https://github.com/vikassa816/super-mario/network/members)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![GitHub Stars](https://img.shields.io/github/stars/vikassa816/super-mario?style=social)](https://github.com/vikassax1610/Super-mario)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/vikas_only_)
 
 </div>
